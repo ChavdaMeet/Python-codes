@@ -26,5 +26,5 @@
 ### 🛠️ Environment & Stack
 *   **Runtime:** Python 3.x
 *   **IDE:** VS Code / PyCharm
-*   **Paradigm:** Object-Oriented & Procedural Programming
+*   **Paradigm:** Object-Oriented & Procedural Programming<br>
 Author - Meet Chavda
